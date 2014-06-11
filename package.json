@@ -1,0 +1,27 @@
+{
+  "name": "hexo-github-feed",
+  "version": "0.1.3",
+  "description": "Github intergration plugin for Hexo",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/setkeh/hexo-github-feed"
+  },
+  "bugs": {
+    "url": "https://github.com/setkeh/hexo-github-feed/issues"
+  },
+  "keywords": [
+    "hexo",
+    "github",
+    "widget"
+  ],
+  "author": "Setkeh <setkeh@gmail.com> (setkeh.com)",
+  "license": {
+    "type": "WTFPL",
+    "url": "https://raw.github.com/tommy351/hexo/master/LICENSE"
+  },
+  "dependencies": {
+    "ejs": "^0.8.8",
+    "lodash": "^2.4.1"
+  }
+}
